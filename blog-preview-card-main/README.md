@@ -1,3 +1,5 @@
+LIVE LINK :--  https://patilprem21.github.io/frontend-challenges/blog-preview-card-main/
+
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
