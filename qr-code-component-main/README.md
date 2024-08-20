@@ -1,4 +1,4 @@
-LIVE LINK:--  https://patilprem21.github.io/frontend-challenges/
+LIVE LINK:--  https://patilprem21.github.io/frontend-challenges/qr-code-component-main/
 
 
 # Frontend Mentor - QR code component
